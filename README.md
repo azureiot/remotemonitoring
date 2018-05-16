@@ -106,3 +106,8 @@ Licensed under the [MIT](LICENSE) License.
 [storage-account]: https://docs.microsoft.com/azure/storage/common/storage-introduction#types-of-storage-accounts
 [virtual-machines]: https://azure.microsoft.com/services/virtual-machines
 [web-application]: https://azure.microsoft.com/services/app-service/web
+
+<a href="https://azuredeploy.net/" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
+
